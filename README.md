@@ -1,3 +1,18 @@
+<style>
+  .container {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+  }
+  .column {
+    flex: 1;
+    padding: 10px;
+    box-sizing: border-box;
+  }
+</style>
+
+<div class="container">
+  <div class="column">
 # Hi there 👋
 
 ## 关于我
@@ -14,9 +29,8 @@
 - **Git**：掌握基本命令，具备简单协作开发能力
 
 感谢访问！欢迎留言交流学习心得 😊
-
---- 
-
+  </div>
+  <div class="column">
 I'm Sierraki, a graduate student majoring in Applied Statistics.  
 Welcome to my GitHub profile!
 
@@ -34,3 +48,5 @@ Welcome to my GitHub profile!
 
 Thank you for visiting! Feel free to connect or collaborate!  
 Feel free to leave a comment if you have any questions.
+  </div>
+</div>
