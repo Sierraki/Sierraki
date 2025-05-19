@@ -1,3 +1,5 @@
+<div style="font-size: 14px">
+
 ## Hi there 👋
 
 我是 Sierraki，一名应用统计专业的研究生。  
@@ -43,5 +45,7 @@ Welcome to my GitHub profile!
 
 Thank you for visiting! Feel free to connect or collaborate!  
 Feel free to leave a comment if you have any questions.
+
+</div>
 
 
