@@ -9,13 +9,13 @@
 ## 技能
 - **Python**：刚起步，正在学习语法和基础编程逻辑
 - **算法与数据结构**：正在学习常见排序、查找、链表、栈、队列等基础知识
-- **MySQL**：掌握 DML（数据操作语言），包括 `SELECT`, `JOIN`, `WHERE`, `GROUP BY` 等常用查询语句
+- **MySQL**：掌握基本的 DML 操作
 - **数据分析（Python）**：初步了解 Pandas 和 NumPy 的使用，正在进行实践练习
-- **Git**：掌握基本命令如 `clone`, `commit`, [push](file://x:\学习\研究生\代码数据库\代码库\python代码\学习\Hello算法\chapter_heap\my_heap.py#L52-L57), `pull`，具备简单协作开发能力
+- **Git**：掌握基本命令，具备简单协作开发能力
 
 感谢访问！欢迎留言交流学习心得 😊
 
----
+--- 
 
 I'm Sierraki, a graduate student majoring in Applied Statistics.  
 Welcome to my GitHub profile!
