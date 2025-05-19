@@ -1,18 +1,3 @@
-<style>
-  .container {
-    display: flex;
-    flex-direction: row;
-    gap: 20px;
-  }
-  .column {
-    flex: 1;
-    padding: 10px;
-    box-sizing: border-box;
-  }
-</style>
-
-<div class="container">
-  <div class="column">
 # Hi there 👋
 
 ## 关于我
@@ -24,13 +9,14 @@
 ## 技能
 - **Python**：刚起步，正在学习语法和基础编程逻辑
 - **算法与数据结构**：正在学习常见排序、查找、链表、栈、队列等基础知识
-- **MySQL**：掌握基本的 DML 操作
-- **数据分析（Python）**：初步了解 Pandas 和 NumPy 的使用，正在进行实践练习
-- **Git**：掌握基本命令，具备简单协作开发能力
+- **MySQL**：掌握基本的数据库操作
+- **数据分析（Python）**：初步了解数据分析相关库的使用
+- **Git**：掌握常用命令，具备基础协作开发能力
 
 感谢访问！欢迎留言交流学习心得 😊
-  </div>
-  <div class="column">
+
+---
+
 I'm Sierraki, a graduate student majoring in Applied Statistics.  
 Welcome to my GitHub profile!
 
@@ -48,5 +34,3 @@ Welcome to my GitHub profile!
 
 Thank you for visiting! Feel free to connect or collaborate!  
 Feel free to leave a comment if you have any questions.
-  </div>
-</div>
