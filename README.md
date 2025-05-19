@@ -1,27 +1,20 @@
-<div style="font-size: 14px">
-
-## Hi there 👋
+# Hi there 👋
 
 我是 Sierraki，一名应用统计专业的研究生。  
 欢迎来到我的 GitHub 主页！
 
-### 🚀 关于我
-- 🎓 目前在读应用统计研究生
-- 🌱 从 2024 年末开始自学 Python 算法与数据结构、数据库操作
-- 💡 主要学习内容：Python、MySQL
-- 🤖 感兴趣领域：数据分析、人工智能，未来希望深入深度学习方向
-- 📚 我会记录自己在力扣（LeetCode）刷题的过程，并将题解代码上传到 [LC_Solve](https://github.com/Sierraki/LC_Solve) 仓库，目前该仓库还在持续更新
+## 关于我
+- 🎓 应用统计研究生
+- 🌱 自学 Python 和 MySQL
+- 💡 学习方向：数据分析、人工智能
+- 📚 LeetCode 刷题记录在 [LC_Solve](https://github.com/Sierraki/LC_Solve)
 
-### 🛠️ 技能
-- 编程语言：Python
-- 数据库：MySQL
-- 学习方向：算法、数据结构
+## 技能
+- Python
+- MySQL
+- 算法、数据结构
 
-### 📫 联系方式
-- 邮箱：Sierrakiper@outlook.com
-
-感谢你的访问，欢迎交流与合作！  
-有什么问题欢迎在留言留言。
+感谢访问！有任何问题欢迎留言.
 
 ---
 
@@ -40,12 +33,5 @@ Welcome to my GitHub profile!
 - Database: MySQL
 - Learning: Algorithms, data structures
 
-### 📫 Contact
-- Email: Sierrakiper@outlook.com
-
 Thank you for visiting! Feel free to connect or collaborate!  
 Feel free to leave a comment if you have any questions.
-
-</div>
-
-
