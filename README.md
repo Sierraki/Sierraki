@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sierraki&layout=compact)
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
