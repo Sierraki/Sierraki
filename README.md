@@ -1,7 +1,10 @@
 ## Hi there 👋
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sierraki&layout=compact&theme=cobalt)
+
 <br>
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sierraki&repo=LC_Solve&theme=cobalt)](https://github.com/Sierraki/LC_Solve)
+
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
