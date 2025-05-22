@@ -1,4 +1,8 @@
 ## Hi there 👋
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sierraki&layout=compact&theme=nightowl&show_icons=true" />
+</div>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sierraki&layout=compact&theme=cobalt)
 
 <br>
