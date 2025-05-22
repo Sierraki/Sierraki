@@ -1,4 +1,13 @@
 ## Hi there 👋
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sierraki&layout=compact&show_icons=true&theme=onedark" />
+  <a href="https://github.com/Sierraki/LC_Solve">
+   <img alt="github stats"height="150px"  src="https://github-readme-stats.vercel.app/api/pin/?username=Sierraki&repo=LC_Solve&theme=onedark&show_icons=true" />
+  </a>
+
+
+
+
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-916%20lines%20of%20code-blue)
