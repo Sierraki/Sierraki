@@ -22,5 +22,6 @@ jobs:
           SHOW_LINES_OF_CODE: "False"      # 关闭 LOC 统计
           SHOW_LOC_CHART: "False" 
           SHOW_LANGUAGE_PER_REPO: "False"
+          SHOW_SHORT_INFO: "False"
            
           
