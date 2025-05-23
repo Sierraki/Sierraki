@@ -5,7 +5,7 @@
    <img alt="github stats"height="150px"  src="https://github-readme-stats.vercel.app/api/pin/?username=Sierraki&repo=LC_Solve&theme=onedark&show_icons=true" />
   </a>
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
