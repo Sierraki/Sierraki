@@ -4,10 +4,7 @@
   <a href="https://github.com/Sierraki/LC_Solve">
    <img alt="github stats"height="150px"  src="https://github-readme-stats.vercel.app/api/pin/?username=Sierraki&repo=LC_Solve&theme=onedark&show_icons=true" />
   </a>
-
-
-
-
+![3D Contributions](profile-3d-contrib/profile-green.svg)
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
