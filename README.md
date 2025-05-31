@@ -10,7 +10,7 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1038%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1006%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
@@ -29,8 +29,8 @@ Tuesday      27 commits     ███░░░░░░░░░░░░░░�
 Wednesday    57 commits     ███████░░░░░░░░░░░░░░░░░░   28.79% 
 Thursday     53 commits     ██████░░░░░░░░░░░░░░░░░░░   26.77% 
 Friday       16 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.08% 
-Saturday     6 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.03% 
-Sunday       10 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.05%
+Saturday     8 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.04% 
+Sunday       8 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.04%
 
 ```
 
@@ -58,5 +58,5 @@ Windows                  34 hrs 46 mins      ███████████�
 ```
 
 
- Last Updated on 30/05/2025
+ Last Updated on 31/05/2025
 <!--END_SECTION:waka-->
