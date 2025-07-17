@@ -1,9 +1,14 @@
 ## Hi there 👋
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sierraki&layout=compact&show_icons=true&theme=onedark" />
-  <a href="https://github.com/Sierraki/LC_Solve">
-   <img alt="github stats"height="150px"  src="https://github-readme-stats.vercel.app/api/pin/?username=Sierraki&repo=LC_Solve&theme=onedark&show_icons=true" />
-  </a>
+<div style="display: flex; gap: 10px;">
+  <div style="flex: 1;">
+    <img alt="Top Langs" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sierraki&layout=compact&show_icons=true&theme=onedark" />
+  </div>
+  <div style="flex: 1;">
+    <a href="https://github.com/Sierraki/LC_Solve">
+      <img alt="github stats" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sierraki&repo=LC_Solve&theme=onedark&show_icons=true" />
+    </a>
+  </div>
+</div>
 
 
 
