@@ -2,7 +2,7 @@ name: Profile Readme Development Stats
 
 on:
   schedule:
-    - cron: '0 0/4 * * *'
+    - cron: '0 16/6 * * *'
   workflow_dispatch:
 jobs:
   update-readme:
