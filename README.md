@@ -1,16 +1,11 @@
 ## Hi there 👋
-<div style="display: flex; gap: 8px; width: 100%; max-width: 400px; font-size: 14px;">
-  <div style="flex: 1;">
-    <img alt="Top Langs" width="100%" 
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sierraki&layout=compact&show_icons=true&theme=onedark" />
-  </div>
-  <div style="flex: 1;">
-    <a href="https://github.com/Sierraki/LC_Solve">
-      <img alt="github stats" width="100%" 
-           src="https://github-readme-stats.vercel.app/api/pin/?username=Sierraki&repo=LC_Solve&theme=onedark&show_icons=true" />
-    </a>
-  </div>
-</div>
+<p align="left"> 
+  <img alt="Top Langs" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sierraki&layout=compact&show_icons=true&theme=onedark" />
+  <a href="https://github.com/Sierraki/LC_Solve">
+   <img alt="github stats"height="115px"  src="https://github-readme-stats.vercel.app/api/pin/?username=Sierraki&repo=LC_Solve&theme=onedark&show_icons=true" />
+  </a>
+
+
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
