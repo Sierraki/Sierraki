@@ -9,7 +9,7 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2273%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2247%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
@@ -23,12 +23,12 @@
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday       12 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.0% 
+Monday       11 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.5% 
 Tuesday      24 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.0% 
 Wednesday    45 commits     █████░░░░░░░░░░░░░░░░░░░░   22.5% 
 Thursday     55 commits     ███████░░░░░░░░░░░░░░░░░░   27.5% 
 Friday       37 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.5% 
-Saturday     15 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.5% 
+Saturday     16 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.0% 
 Sunday       12 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.0%
 
 ```
@@ -53,5 +53,5 @@ DataGrip                 1 hr 24 mins        ██░░░░░░░░░�
 ```
 
 
- Last Updated on 18/07/2025
+ Last Updated on 19/07/2025
 <!--END_SECTION:waka-->
