@@ -9,7 +9,7 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2298%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2271%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
@@ -23,10 +23,10 @@
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday       16 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.0% 
+Monday       15 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.5% 
 Tuesday      24 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.0% 
 Wednesday    45 commits     █████░░░░░░░░░░░░░░░░░░░░   22.5% 
-Thursday     55 commits     ███████░░░░░░░░░░░░░░░░░░   27.5% 
+Thursday     56 commits     ███████░░░░░░░░░░░░░░░░░░   28.0% 
 Friday       32 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.0% 
 Saturday     13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.5% 
 Sunday       15 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.5%
@@ -48,5 +48,5 @@ VS Code                  12 hrs 43 mins      ███████████�
 ```
 
 
- Last Updated on 06/08/2025
+ Last Updated on 07/08/2025
 <!--END_SECTION:waka-->
