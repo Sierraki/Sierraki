@@ -9,15 +9,15 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2506%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2550%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
 ```text
 🌞 Morning    7 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.5% 
 🌆 Daytime    64 commits     ████████░░░░░░░░░░░░░░░░░   32.0% 
-🌃 Evening    50 commits     ██████░░░░░░░░░░░░░░░░░░░   25.0% 
-🌙 Night      79 commits     ██████████░░░░░░░░░░░░░░░   39.5%
+🌃 Evening    51 commits     ██████░░░░░░░░░░░░░░░░░░░   25.5% 
+🌙 Night      78 commits     █████████░░░░░░░░░░░░░░░░   39.0%
 
 ```
 📅 **I'm Most Productive on Thursday** 
@@ -51,5 +51,5 @@ DataGrip                 26 mins             █░░░░░░░░░░�
 ```
 
 
- Last Updated on 17/08/2025
+ Last Updated on 18/08/2025
 <!--END_SECTION:waka-->
