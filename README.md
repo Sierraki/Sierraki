@@ -9,15 +9,15 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10423%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10355%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
 ```text
 🌞 Morning    8 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.0% 
 🌆 Daytime    63 commits     ████████░░░░░░░░░░░░░░░░░   31.5% 
-🌃 Evening    53 commits     ██████░░░░░░░░░░░░░░░░░░░   26.5% 
-🌙 Night      76 commits     █████████░░░░░░░░░░░░░░░░   38.0%
+🌃 Evening    54 commits     ██████░░░░░░░░░░░░░░░░░░░   27.0% 
+🌙 Night      75 commits     █████████░░░░░░░░░░░░░░░░   37.5%
 
 ```
 📅 **I'm Most Productive on Thursday** 
@@ -50,5 +50,5 @@ VS Code                  7 hrs 39 mins       ███████████�
 ```
 
 
- Last Updated on 26/08/2025
+ Last Updated on 27/08/2025
 <!--END_SECTION:waka-->
