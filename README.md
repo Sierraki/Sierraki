@@ -1,5 +1,5 @@
 # Hi there 👋
-I'm a graduate student studying applied statistics📊.
+I'm a graduate student majoring in applied statistics📊.
 
   <img alt="Top Langs" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sierraki&layout=compact&show_icons=true&theme=onedark" />
   <a href="https://github.com/Sierraki/LC_Solve">
