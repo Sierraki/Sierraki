@@ -7,17 +7,6 @@ I'm a graduate student studying applied statistics📊.
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    17 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.25% 
-🌆 Daytime    67 commits     ████████░░░░░░░░░░░░░░░░░   32.52% 
-🌃 Evening    67 commits     ████████░░░░░░░░░░░░░░░░░   32.52% 
-🌙 Night      55 commits     ██████░░░░░░░░░░░░░░░░░░░   26.7%
-
-```
-
-
 📊 **This Week I Spent My Time On** 
 
 ```text
