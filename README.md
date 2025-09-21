@@ -21,3 +21,11 @@ VS Code                  11 hrs 37 mins      ████░░░░░░░�
 
  Last Updated on 21/09/2025
 <!--END_SECTION:waka-->
+<details>
+<summary>My Skills</summary>
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+</details>
