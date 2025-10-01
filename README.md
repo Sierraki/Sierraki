@@ -20,7 +20,7 @@ I'm a graduate student majoring in applied statistics📊.
 
 
 <details>
-  <summary>Skills Not Fully Mastered</summary>
+  <summary>Skills Still Learning</summary>
 
   ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
