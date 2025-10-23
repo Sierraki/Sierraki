@@ -3,6 +3,7 @@ I'm a graduate student majoring in applied statistics📊.
 
   <img alt="Top Langs" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sierraki&layout=compact&show_icons=true&theme=onedark" />
 
+<a href="http://bangumi.tv/user/930797"><img src="http://bangumi.tv/chart/img/930797" border="0" alt="Sierra 的个人主页" /></a> 
 
 
 ## Skills Mastered
