@@ -2,9 +2,9 @@
 
 I'm a graduate student majoring in applied statistics📊.
 
-  `<img alt="Top Langs" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sierraki&layout=compact&show_icons=true&theme=onedark" />`
+![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=sierraki&amp;layout=compact&amp;theme=tokyonight)
 
-`<a href="http://bangumi.tv/user/930797"><img src="http://bangumi.tv/chart/img/930797" border="0" alt="Sierra 的个人主页" />``</a>`
+<img src="https://bangumi.tv/chart/img/930797" border="0" alt="Sierra 的个人主页" />
 
 ## Skills Mastered
 
