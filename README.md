@@ -2,9 +2,7 @@
 
 I'm a graduate student majoring in applied statistics📊.
 
-![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=sierraki&amp;layout=compact&amp;theme=tokyonight)
-
-<img src="https://bangumi.tv/chart/img/930797" border="0" alt="Sierra 的个人主页" />
+![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=sierraki&amp;layout=compact&amp;theme=tokyonight)<img src="https://bangumi.tv/chart/img/930797" border="0" alt="Sierra 的个人主页" />
 
 ## Skills Mastered
 
@@ -21,3 +19,4 @@ I'm a graduate student majoring in applied statistics📊.
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </details>
+
