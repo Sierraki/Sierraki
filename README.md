@@ -2,9 +2,16 @@
 
 I'm a graduate student majoring in applied statistics📊.
 
-![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=sierraki&amp;layout=compact&amp;theme=tokyonight)
+<p align="center">
+  <a href="https://leetcode.cn/u/blissful-aryabhatawpr/">
+    <img src="https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Rating&query=rating&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fblissful-aryabhatawpr%2Fcn%2F&logo=leetcode&logoColor=yellow" alt="LeetCode Rating">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/yoshikawa_yuki">
+    <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=yoshikawa_yuki" alt="Codeforces Badge">
+  </a>
+</p>
 
-<img src="https://bangumi.tv/chart/img/930797" border="0" alt="Sierra 的个人主页" />
 
 ## Skills Mastered
 
