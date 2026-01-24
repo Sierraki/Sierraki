@@ -8,6 +8,13 @@ I'm a graduate student majoring in applied statistics📊.
   <a href="https://leetcode.cn/sierraki/">
     <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=sierraki&query=ratingQuantile&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fsierraki%2Fcn%2F&logo=leetcode&logoColor=yellow" alt="LeetCode">
   </a>
+  <a href="https://leetcode.cn/sierraki/">
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Rank&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fsierraki%2Fcn%2F&logo=leetcode&logoColor=yellow" alt="LeetCode">
+  </a>
+  <a href="https://leetcode.cn/u/sierraki/">
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Contests&query=$.contestAttend&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fsierraki%2Fcn%2F&logo=leetcode&logoColor=yellow" alt="LeetCode Contests">
+  </a>
+
 </p>
 <p align="center">
   <a href="https://codeforces.com/profile/yoshikawa_yuki">
@@ -16,7 +23,14 @@ I'm a graduate student majoring in applied statistics📊.
   <a href="https://codeforces.com/profile/yoshikawa_yuki">
     <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=1f8acb&label=Rank&query=$.result[0].rank&url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3Dyoshikawa_yuki&logo=codeforces&logoColor=white&cache=1" alt="Codeforces Rank">
   </a>
+  <a href="https://codeforces.com/profile/yoshikawa_yuki">
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=1f8acb&label=Contests&query=%24.result.length&url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.rating%3Fhandle%3Dyoshikawa_yuki&logo=codeforces&logoColor=white" alt="Codeforces Contests">
+  </a>
 </p>
+
+
+
+
 
 <p align="center">
   <a href="https://atcoder.jp/users/sierraki">
