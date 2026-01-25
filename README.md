@@ -5,7 +5,7 @@
 <h2 align="center">🏆 Algorithm Contests</h2>
 <p align="center">
   <a href="https://leetcode.cn/u/sierraki/">
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Sierraki&query=ratingQuantile&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fsierraki%2Fcn%2F&logo=leetcode&logoColor=yellow" alt="LeetCode Rating">
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Sierraki&query=rating&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fsierraki%2Fcn%2F&logo=leetcode&logoColor=yellow" alt="LeetCode Rating">
   </a href="https://codeforces.com/profile/yoshikawa_yuki">
     <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=1f8acb&label=yoshikawa_yuki&query=$.result[0].rating&url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3Dyoshikawa_yuki&logo=codeforces&logoColor=white" alt="Codeforces Rating">
   </a>
@@ -78,5 +78,6 @@
 <p align="center">
 <img src="https://bangumi.tv/chart/img/930797" border="0" alt="Sierra 的个人主页" />
 </p>
+
 
 
