@@ -5,15 +5,15 @@
 <h2 align="center">🏆 Algorithm Contests</h2>
 
 <p align="center">
-  <a href="https://leetcode.cn/sierraki/">
-    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=sierraki&query=ratingQuantile&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fsierraki%2Fcn%2F&logo=leetcode&logoColor=yellow" alt="LeetCode">
+  <a href="https://leetcode.cn/u/sierraki/">
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Sierraki&query=ratingQuantile&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fsierraki%2Fcn%2F&logo=leetcode&logoColor=yellow" alt="LeetCode Rating">
   </a>
   <a href="https://leetcode.cn/sierraki/">
     <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Rank&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fsierraki%2Fcn%2F&logo=leetcode&logoColor=yellow" alt="LeetCode">
   </a>
   <a href="https://leetcode.cn/u/sierraki/">
-    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Contests&query=$.contestAttend&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fsierraki%2Fcn%2F&logo=leetcode&logoColor=yellow" alt="LeetCode Contests">
-  </a>
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fsierraki%2Fcn%2F&logo=leetcode&logoColor=yellow" alt="LeetCode Solved">
+</a>
 </p>
 <p align="center">
   <a href="https://codeforces.com/profile/yoshikawa_yuki">
