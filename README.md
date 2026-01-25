@@ -1,9 +1,8 @@
 <h1 align="center">Hi there 👋</h1>
 
 <p align="center">I'm a graduate student majoring in applied statistics📊.</p>
-
+<hr>
 <h2 align="center">🏆 Algorithm Contests</h2>
-
 <p align="center">
   <a href="https://leetcode.cn/u/sierraki/">
   <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Sierraki&query=ratingQuantile&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fsierraki%2Fcn%2F&logo=leetcode&logoColor=yellow" alt="LeetCode Rating">
@@ -17,7 +16,7 @@
     <img src="https://atcoder.junah.dev/v1/generate_badge?name=sierraki" alt="AtCoder">
   </a>
 </p>
-
+<hr>
 <h2 align="center">📊 Statistical Stack</h2>
 
 <p align="center">
@@ -43,7 +42,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" height="40" alt="dbeaver logo" />
 </p>
-
+<hr>
 <h2 align="center">🛠️ Tech & Dev Tools</h2>
 
 <p align="center">
@@ -65,7 +64,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" height="40" alt="wordpress logo" />
 </p>
-
+<hr>
 <h2 align="center">🌱 Learning Journey</h2>
 
 <p align="center">
@@ -73,10 +72,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
 </p>
-
+<hr>
 <h2 align="center">📺 Daily Life</h2>
 
 <p align="center">
 <img src="https://bangumi.tv/chart/img/930797" border="0" alt="Sierra 的个人主页" />
 </p>
+
 
