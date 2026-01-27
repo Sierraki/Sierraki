@@ -1,16 +1,17 @@
 # Hi there 👋
+
 I'm a graduate student majoring in applied statistics📊.
 
-  <img alt="Top Langs" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sierraki&layout=compact&show_icons=true&theme=onedark" />
+  `<img alt="Top Langs" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sierraki&layout=compact&show_icons=true&theme=onedark" />`
 
-<a href="http://bangumi.tv/user/930797"><img src="http://bangumi.tv/chart/img/930797" border="0" alt="Sierra 的个人主页" /></a> 
-
+`<a href="http://bangumi.tv/user/930797"><img src="http://bangumi.tv/chart/img/930797" border="0" alt="Sierra 的个人主页" />``</a>`
 
 ## Skills Mastered
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-E66B02?style=for-the-badge&logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -18,7 +19,6 @@ I'm a graduate student majoring in applied statistics📊.
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
 
 <details>
   <summary>Skills Still Learning</summary>
