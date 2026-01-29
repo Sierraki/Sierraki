@@ -57,6 +57,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" height="50" alt="anaconda logo"  />
   <img width="12" />
+  <img src="https://raw.githubusercontent.com/astral-sh/uv/main/docs/assets/logo-letter.svg" height="50" alt="uv logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="50" alt="mysql logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" height="50" alt="sqlite logo" />
@@ -67,7 +69,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" height="50" alt="premierepro logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" height="50" alt="wordpress logo" />
 </p>
 <hr>
 <h2 align="center">🌱 Learning Journey</h2>
