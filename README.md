@@ -47,7 +47,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" height="50" alt="dbeaver logo" />
 </p>
 <hr>
-<h2 align="center">🛠️ Tech & Dev Tools</h2>
+<h2 align="center">🛠️ Tech & Tools</h2>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" height="50" alt="pycharm" />
@@ -62,11 +62,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" height="50" alt="git logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" height="50" alt="photoshop logo" />
+  <img src="https://static.cdnlogo.com/logos/p/45/photoshop-cc.svg" height="50" alt="photoshop logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" height="50" alt="premierepro logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" height="50" alt="wordpress logo" />
 </p>
 <hr>
 <h2 align="center">🌱 Learning Journey</h2>
