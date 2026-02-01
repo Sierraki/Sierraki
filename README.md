@@ -31,21 +31,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="50" alt="pandas logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" height="50" alt="r logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" height="50" alt="rstudio logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" height="50" alt="matlab logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spss/spss-original.svg" height="50" alt="spss logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stata/stata-original-wordmark.svg" height="50" alt="stata logo" />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg"height="50" alt="powerbi logo">
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/minitab/minitab-original.svg" height="50" alt="minitab logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" height="50" alt="dbeaver logo" />
+  
 </p>
 <hr>
 <h2 align="center">🛠️ Tech & Tools</h2>
@@ -55,14 +47,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="50" alt="vscode logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" height="50" alt="anaconda logo"  />
-  <img width="12" />
   <img src="https://raw.githubusercontent.com/astral-sh/uv/main/docs/assets/logo-letter.svg" height="50" alt="uv logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="50" alt="mysql logo" />
+  <img src="https://static.cdnlogo.com/logos/m/10/mysql.svg" height="50" alt="mysql logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" height="50" alt="sqlite logo" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" height="50" alt="dbeaver logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" height="50" alt="git logo" />
   <img width="12" />
   <img src="https://static.cdnlogo.com/logos/p/45/photoshop-cc.svg" height="50" alt="photoshop logo" />
