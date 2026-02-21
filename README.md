@@ -47,8 +47,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="50" alt="vscode logo" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/astral-sh/uv/main/docs/assets/logo-letter.svg" height="50" alt="uv logo"  />
-  <img width="12" />
   <img src="https://static.cdnlogo.com/logos/m/10/mysql.svg" height="50" alt="mysql logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="50" alt="mssql logo" />
