@@ -21,7 +21,7 @@
   <tr>
     <td align="center">
       <a href="https://leetcode.cn/u/sierraki/">
-        <img src="https://img.shields.io/badge/dynamic/json?labelColor=555&color=%23ffa116&label=LeetCode&query=ratingQuantile&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fsierraki%2Fcn%2F&logo=leetcode&logoColor=yellow" alt="LeetCode">
+        <img src="https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Rating&query=rating&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fsierraki%2Fcn%2F&logo=leetcode&logoColor=yellow" alt="LeetCode">
       </a><br><br>
       <a href="https://codeforces.com/profile/yoshikawa_yuki">
         <img src="https://badges.riever.dev/codeforces/yoshikawa_yuki.svg" alt="Codeforces">
