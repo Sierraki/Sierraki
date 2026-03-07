@@ -11,7 +11,7 @@
     </th>
     <th align="center" width="34%">
       <h2>📺 Daily Life</h2>
-      <img width="310" height="1" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif">
+      <img width="300" height="1" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif">
     </th>
     <th align="center" width="33%">
       <h2>💻 Tech Stack</h2>
