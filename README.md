@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋</h1>
 <p align="center">I'm a graduate student majoring in applied statistics 📊.</p>
-
+<p align="center">Passionate about programming, and currently diving deep into algorithms 💻.</p>
 <hr>
 
 <table>
