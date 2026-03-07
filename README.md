@@ -3,11 +3,20 @@
 
 <hr>
 
-<table width="100%">
+<table>
   <tr>
-    <th width="33%"><h2 align="center">🎯 Algorithms</h2></th>
-    <th width="34%"><h2 align="center">📺 Daily Life</h2></th>
-    <th width="33%"><h2 align="center">💻 Tech Stack</h2></th>
+    <th align="center">
+      <h2>🎯 Algorithms</h2>
+      <img width="300" height="1" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif">
+    </th>
+    <th align="center">
+      <h2>📺 Daily Life</h2>
+      <img width="300" height="1" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif">
+    </th>
+    <th align="center">
+      <h2>💻 Tech Stack</h2>
+      <img width="300" height="1" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif">
+    </th>
   </tr>
   <tr>
     <td align="center">
