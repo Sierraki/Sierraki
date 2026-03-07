@@ -36,8 +36,8 @@
       </a>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="35" title="Python">&nbsp;&nbsp;
-      <img src="https://static.cdnlogo.com/logos/m/10/mysql.svg" height="35" title="MySQL">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="50" title="Python">&nbsp;&nbsp;
+      <img src="https://static.cdnlogo.com/logos/m/10/mysql.svg" height="50" title="MySQL">
     </td>
   </tr>
 </table>
